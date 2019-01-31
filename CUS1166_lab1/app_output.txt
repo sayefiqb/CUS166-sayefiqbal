@@ -1,1 +1,11 @@
+Sayef Iqbal has a grade of: 89
+Christian George has a grade of: 90
+John Doe has a grade of: 61
+Phillip Ross has a grade of: 78
+Louise Chan has a grade of: 48
+Michael Meyer has a grade of: 73
+Ronald Goldsmith has a grade of: 93
+Mitchel Johnson has a grade of: 83
+Kim Dustin has a grade of: 90
+Rebecca Waterhouse has a grade of: 44
 The average score for the roster is: 74.9

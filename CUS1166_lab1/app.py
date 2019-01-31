@@ -16,6 +16,9 @@ def main():
     roster = [student1,student2,student3,student4,student5,student6,
     student7,student8,student9,student10]
 
+    for student in roster:
+        student.print_student_info()
+
     average = average_grade(roster)
     print(f"The average score for the roster is: {average}")
 
